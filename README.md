@@ -1,7 +1,7 @@
 # api-katalon-docker-flask
 Project using Katalon for Rest API Test Automation - Docker imagem Flask API
 
-- Realizar o build da imagem da API Flask em: 
+- Realizar o build da imagem da API Flask em: https://github.com/GabrielSlima/FlaskAppDocker.git
 - Realizar pull para repositório local
 - Abrir o projeto no Katalon atrevés da opção "Open Project"
 - Rodar a suite, caso de teste, ou teste utilizando a opção "Run e Verify"

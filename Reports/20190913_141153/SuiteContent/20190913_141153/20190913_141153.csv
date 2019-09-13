@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+SuiteContent,,,,2019-09-13 14:11:56,2019-09-13 14:12:03,"7,471s",INCOMPLETE
+,,,,,,,
+Test Cases/Content,,,,2019-09-13 14:11:56,2019-09-13 14:12:03,"7,186s",PASSED
+"response = sendRequestAndVerify(findTestObject(""ListContent""))",,,,2019-09-13 14:11:56,2019-09-13 14:12:03,"6,926s",PASSED
